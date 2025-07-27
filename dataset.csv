@@ -1,0 +1,101 @@
+Age,Gender,Weight_kg,Height_cm,BMI,Physical_Activity_Level,Sleep_Hours,Smoking_Status,Alcohol_Intake,Daily_Calorie_Intake,Meal_Frequency,Protein_Intake_g,Carbohydrate_Intake_g,Fat_Intake_g,Chronic_Disease,Blood_Pressure,Cholesterol_Level,Income_Level,Education_Level,Occupation,Vitamin_A_mg,Vitamin_C_mg,Calcium_mg,Iron_mg,Diet_Score
+40,Male,64,171,24.3,High,4,No,Regular,1531,5,49,256,92,Hypertension,High,Normal,Middle,High School,Farmer,0.7,121,1203,23,Poor
+54,Male,69,162,27.1,Moderate,7,Yes,Occasional,2591,4,117,190,65,None,High,Normal,High,PhD,Nurse,0.6,82,839,8,Average
+63,Female,117,175,21.3,High,4,No,Occasional,3025,3,62,225,54,None,Normal,Normal,Low,High School,Builder,1.3,143,1215,14,Excellent
+29,Male,70,174,20.4,Moderate,9,No,Occasional,2562,6,109,191,63,Diabetes,Normal,Normal,Middle,Bachelor,Software Developer,1.3,138,520,15,Average
+43,Male,109,179,28.7,High,9,Yes,Regular,3069,3,47,177,75,Diabetes,Normal,Normal,Middle,Master,Actress,0.8,117,654,11,Excellent
+45,Female,75,191,20.5,High,6,Yes,Regular,3403,4,97,370,54,Hypertension,Normal,High,High,PhD,Business Developer,0.5,141,1134,9,Excellent
+47,Male,71,166,23.2,Low,7,Yes,Regular,2136,2,71,202,92,Hypertension,High,Normal,Middle,High School,Business Woman,0.7,132,790,23,Average
+55,Female,55,154,19.4,High,7,No,Occasional,3184,4,87,275,79,None,High,High,Low,PhD,Builder,1,34,1334,11,Poor
+20,Female,65,185,20.6,Moderate,9,No,Regular,2630,4,77,263,41,Diabetes,Normal,High,Middle,PhD,Builder,0.8,47,1269,15,Excellent
+57,Female,92,190,27.2,Low,6,No,Occasional,2109,5,75,266,91,None,High,Normal,Middle,Master,Self Employed,0.4,105,558,11,Good
+63,Female,81,192,23.4,High,6,No,Regular,1957,5,61,319,53,Obesity,Normal,Normal,Middle,PhD,Engineer,1.3,94,1147,23,Poor
+57,Male,77,168,34.1,Low,7,No,Occasional,2485,4,101,258,36,Hypertension,High,High,High,PhD,Actor,0.5,86,1071,19,Excellent
+58,Female,92,164,26.1,Moderate,5,No,Occasional,1940,5,76,315,93,Obesity,Normal,Normal,Low,PhD,Marketer,1.4,144,623,25,Poor
+25,Female,91,156,34.8,Moderate,5,Yes,None,1984,4,98,290,97,None,High,Normal,High,Master,Farmer,1.1,142,1034,18,Poor
+49,Male,78,190,28,Low,5,Yes,Regular,1680,2,49,214,97,None,High,High,Low,Bachelor,Engineer,1.3,43,1342,11,Poor
+49,Female,66,176,33.5,High,6,No,Regular,3401,5,48,346,38,Diabetes,High,Normal,High,Master,Doctor,1.3,109,692,14,Average
+22,Female,98,185,28.7,High,8,No,Regular,3219,4,96,167,74,Diabetes,Normal,High,Low,Bachelor,Doctor,1,35,997,22,Poor
+52,Male,107,154,25.4,High,4,No,Occasional,2830,4,72,393,46,Diabetes,High,Normal,High,High School,Driver,0.6,57,509,8,Poor
+52,Male,98,181,22.8,Low,5,No,Occasional,1617,5,70,372,72,Obesity,High,Normal,Middle,High School,Teacher,1,143,1345,25,Good
+44,Male,119,175,24.1,Moderate,8,No,Regular,1965,6,47,217,69,Diabetes,High,Normal,Middle,Master,Business Developer,1.3,111,1112,19,Good
+41,Female,71,156,22.4,Low,4,No,Regular,2559,5,81,195,33,Diabetes,High,Normal,High,High School,Farmer,1.2,136,1262,12,Good
+32,Female,82,199,24.6,High,9,Yes,Occasional,1741,5,49,374,60,Hypertension,High,Normal,Middle,PhD,Banker,1,150,905,13,Poor
+26,Female,70,156,23.1,High,5,Yes,Occasional,2547,4,90,158,59,Obesity,Normal,Normal,Middle,Bachelor,Actress,0.7,139,1215,19,Good
+55,Female,94,180,19.6,High,5,Yes,None,2902,6,116,329,45,Hypertension,Normal,Normal,Low,Bachelor,Farmer,1.3,30,1382,16,Average
+31,Female,107,186,26.1,Low,9,Yes,None,2009,6,108,183,97,Hypertension,Normal,Normal,Middle,PhD,Marketer,1.4,143,1331,19,Poor
+61,Female,99,180,28.1,Low,8,No,Regular,1789,4,68,200,52,Obesity,Normal,Normal,Low,Bachelor,Student,0.6,55,796,10,Good
+45,Male,60,180,21.1,Moderate,9,No,None,3132,6,48,166,80,Hypertension,High,Normal,High,PhD,Actress,0.8,74,948,23,Good
+63,Male,115,197,32.2,High,9,Yes,Occasional,2774,6,48,164,41,Hypertension,Normal,High,High,PhD,Accountant,1.4,67,899,20,Poor
+36,Female,54,190,20.6,Moderate,8,No,Regular,3124,6,64,181,39,Hypertension,Normal,Normal,High,PhD,Drummer,1.1,82,1476,15,Average
+34,Female,115,195,29.6,Low,8,No,None,2405,5,50,246,49,Diabetes,Normal,High,Middle,High School,Self Employed,0.6,42,1046,10,Average
+63,Female,75,166,31.1,Moderate,6,Yes,Occasional,1893,5,55,264,36,Hypertension,High,High,High,Bachelor,Builder,0.4,149,986,9,Average
+34,Female,80,171,31.1,Moderate,6,No,Occasional,2300,2,82,251,34,Diabetes,High,Normal,Middle,Bachelor,Student,0.6,125,745,18,Good
+33,Female,95,195,29.4,Low,4,Yes,None,2453,6,75,263,48,Obesity,Normal,High,Middle,Master,Accountant,1.1,73,1063,19,Excellent
+32,Male,94,187,27.5,Low,9,No,None,2485,6,93,288,33,Diabetes,High,Normal,Middle,PhD,Drummer,0.5,106,868,8,Average
+40,Male,117,189,29.3,High,9,Yes,None,2212,6,65,200,88,Diabetes,Normal,Normal,Middle,PhD,Actor,0.6,37,1358,20,Excellent
+57,Female,61,180,29.9,Moderate,6,No,Occasional,2781,5,62,203,94,None,Normal,Normal,Middle,PhD,Engineer,0.8,52,671,17,Excellent
+45,Female,100,173,26,Moderate,4,No,Regular,3299,3,42,279,74,Hypertension,High,High,Middle,High School,Driver,0.7,147,1388,21,Poor
+21,Male,62,163,21.7,Low,8,Yes,Occasional,2396,4,69,321,43,None,High,Normal,Middle,Bachelor,Builder,0.3,149,1229,23,Poor
+55,Male,75,184,18.7,Low,4,Yes,Regular,2693,5,98,349,81,Hypertension,Normal,Normal,Middle,Bachelor,Business Woman,0.4,77,899,20,Excellent
+50,Male,119,175,22.8,Low,8,No,Regular,2060,5,116,320,58,Hypertension,High,Normal,Middle,Master,Farmer,1.1,61,645,18,Poor
+27,Male,68,159,34.6,High,9,Yes,Regular,3123,5,94,211,69,None,Normal,Normal,Middle,High School,Teacher,1.4,95,1060,24,Poor
+61,Female,50,153,21.2,Low,6,No,Occasional,2779,3,120,343,81,Hypertension,Normal,High,Middle,Master,Business Woman,1.2,51,1363,24,Poor
+55,Male,94,193,22.6,Moderate,8,No,None,2904,2,41,226,51,Hypertension,Normal,High,High,High School,Engineer,0.7,37,629,20,Excellent
+50,Female,104,189,24.6,High,5,Yes,None,2252,5,91,391,52,Hypertension,High,Normal,High,Master,Farmer,0.9,61,537,19,Average
+39,Female,56,196,23.2,Moderate,7,Yes,None,3008,6,50,175,71,Obesity,High,High,Low,PhD,Business Developer,0.5,53,1389,9,Poor
+38,Male,87,173,22.1,High,8,No,Occasional,2307,6,117,358,31,Diabetes,Normal,Normal,Middle,Bachelor,Actress,1,64,1064,17,Good
+49,Female,69,174,28.8,High,4,Yes,Occasional,1545,2,61,154,36,None,High,High,Low,High School,Accountant,0.4,102,1287,24,Average
+36,Female,118,171,22.8,Low,9,Yes,None,2789,5,116,391,83,Diabetes,High,High,Middle,Bachelor,Student,1.2,31,569,12,Excellent
+26,Male,107,178,18.8,Moderate,5,No,Occasional,2355,2,92,395,30,Obesity,High,High,Low,PhD,Nurse,0.4,125,1477,12,Excellent
+48,Male,52,200,27.1,High,8,No,None,2081,6,117,207,34,Diabetes,High,High,High,High School,Banker,1.1,148,621,23,Poor
+53,Male,54,151,25.6,Moderate,8,No,None,2678,2,90,321,55,Hypertension,High,Normal,Middle,Bachelor,Driver,0.8,143,515,17,Good
+30,Male,97,181,33.9,High,6,No,None,2088,3,111,315,58,Diabetes,High,Normal,Low,High School,Builder,1.3,146,1206,18,Poor
+23,Male,79,153,34,High,6,No,Regular,2242,5,108,242,100,None,High,Normal,Low,Master,Software Developer,0.9,70,851,15,Excellent
+23,Female,118,160,27.2,Low,4,Yes,None,1842,3,44,178,67,Diabetes,High,High,High,Master,Business Developer,0.8,108,1244,10,Excellent
+42,Female,87,172,25,High,5,No,None,3251,4,118,249,79,Diabetes,Normal,Normal,Middle,Master,Doctor,0.4,116,559,8,Good
+52,Male,62,158,21.9,High,9,Yes,None,2025,6,99,294,77,Hypertension,High,Normal,High,Master,Driver,0.4,65,1427,23,Excellent
+51,Female,84,172,29.2,Low,7,No,None,1920,2,105,324,42,Diabetes,High,Normal,Low,High School,Actress,0.5,93,729,10,Excellent
+62,Male,70,186,27.7,Low,5,No,Occasional,2036,3,108,339,30,Hypertension,Normal,High,Low,PhD,Actor,1.2,125,934,12,Good
+64,Male,61,170,26.5,Low,7,No,Occasional,1794,6,112,185,33,Hypertension,Normal,Normal,High,High School,Builder,0.4,129,622,14,Average
+18,Female,91,195,22.5,Low,4,No,None,3129,4,105,268,55,None,Normal,High,Low,Master,Engineer,1.3,143,1000,18,Poor
+26,Female,96,174,34.6,High,8,Yes,None,3187,4,54,196,44,Diabetes,High,Normal,High,High School,Teacher,1,144,863,17,Average
+43,Male,111,184,20.5,Moderate,4,No,Regular,1680,3,82,334,93,Hypertension,Normal,Normal,High,Master,Student,1,99,1389,13,Poor
+39,Male,111,187,24.1,Moderate,7,Yes,Regular,2904,6,116,262,83,Diabetes,Normal,Normal,High,PhD,Actor,0.7,67,1251,9,Good
+23,Male,50,186,25.2,High,7,No,Occasional,2256,2,51,262,71,Obesity,High,Normal,Low,Bachelor,Farmer,1,112,1040,23,Average
+23,Male,63,167,28,High,9,Yes,None,2372,2,105,340,96,Diabetes,High,Normal,Middle,Master,Builder,0.9,77,1076,11,Average
+39,Male,108,166,23.8,Moderate,7,Yes,Occasional,1858,2,82,296,63,Diabetes,Normal,Normal,Low,Bachelor,Driver,1.3,132,979,23,Average
+30,Female,67,194,20,Moderate,5,Yes,Regular,3211,6,95,368,38,Obesity,Normal,Normal,Middle,Bachelor,Farmer,1.2,51,502,14,Poor
+33,Female,79,159,30,Low,6,No,Regular,2022,4,101,348,90,Diabetes,High,Normal,High,Master,Teacher,1.4,140,1076,12,Average
+18,Male,110,169,28,High,4,Yes,None,2578,2,69,247,41,None,High,High,High,Master,Builder,1.4,137,724,13,Poor
+39,Male,113,191,33.2,Moderate,8,No,None,2942,2,67,307,41,Diabetes,High,High,Low,High School,Engineer,1.2,142,1334,13,Good
+53,Female,66,186,22.1,Moderate,5,No,None,3099,5,59,290,73,Diabetes,Normal,Normal,High,High School,Banker,0.7,85,884,20,Good
+39,Male,74,198,34.4,Low,7,Yes,Regular,2624,6,58,329,40,Obesity,Normal,Normal,Low,Bachelor,Drummer,0.9,126,1063,18,Excellent
+58,Female,106,164,31.2,High,5,Yes,None,2684,5,117,230,81,None,High,High,Low,High School,Teacher,1.1,69,1414,8,Poor
+41,Female,119,155,24.3,High,8,Yes,Occasional,2469,2,43,166,77,None,Normal,Normal,Middle,Master,Farmer,0.6,79,1152,24,Good
+55,Female,108,199,21.9,Low,4,No,Occasional,2127,4,73,204,62,None,Normal,High,Middle,High School,Drummer,0.4,35,1085,16,Excellent
+51,Male,101,181,30.8,High,5,Yes,Regular,3408,4,40,170,66,None,High,High,Middle,High School,Business Woman,1.2,63,653,17,Good
+65,Male,109,191,32.1,High,5,Yes,Regular,2020,3,113,377,95,None,High,High,Middle,Bachelor,Software Developer,0.9,122,748,20,Excellent
+52,Male,79,168,26.9,Moderate,4,Yes,None,1932,4,81,206,47,Hypertension,High,High,Middle,Master,Banker,0.7,120,1138,20,Average
+63,Male,113,172,33.3,Low,8,No,None,2841,5,107,314,78,Diabetes,High,High,High,PhD,Accountant,0.7,41,520,19,Good
+42,Female,79,170,32.3,High,7,No,Occasional,2259,3,71,375,32,Obesity,Normal,Normal,Low,Bachelor,Business Developer,1.3,98,1096,20,Excellent
+47,Female,51,173,27.7,Low,9,Yes,Occasional,2772,6,100,315,97,Hypertension,Normal,High,High,Bachelor,Actress,0.9,49,870,11,Excellent
+34,Male,56,152,31.5,Moderate,7,No,None,3288,4,65,338,59,Hypertension,High,High,Middle,High School,Nurse,0.8,71,1382,8,Excellent
+39,Female,85,185,32.4,High,9,No,None,2628,2,105,217,73,Diabetes,Normal,High,High,High School,Student,0.4,47,1440,14,Average
+46,Female,89,176,32.3,Low,5,No,None,2343,5,46,268,67,Diabetes,High,High,Middle,Bachelor,Self Employed,1.4,122,741,19,Poor
+56,Male,95,200,22.4,High,4,No,Regular,2551,2,46,159,53,Diabetes,High,High,Middle,PhD,Business Developer,1.4,114,813,11,Excellent
+34,Female,107,186,23.2,High,8,No,Occasional,2468,6,83,307,63,Diabetes,Normal,Normal,Middle,High School,Business Woman,1.2,32,642,24,Excellent
+36,Male,61,182,20.5,Moderate,9,No,Regular,1598,4,84,203,66,Obesity,High,Normal,Low,Bachelor,Teacher,0.8,110,823,11,Poor
+56,Female,110,173,31.1,Moderate,7,Yes,None,1793,5,42,300,63,Obesity,High,High,Middle,Bachelor,Doctor,1.3,140,945,9,Poor
+30,Male,89,167,30.4,Moderate,6,No,None,2331,6,65,228,66,Hypertension,High,High,Low,Master,Driver,1.4,144,1224,18,Poor
+46,Female,101,191,19.8,High,8,Yes,None,2107,3,48,291,50,Obesity,High,High,Middle,Bachelor,Business Woman,1.4,117,527,22,Good
+25,Male,85,183,21.1,High,9,Yes,Occasional,2508,5,75,207,99,Hypertension,High,High,High,Master,Student,1.5,90,704,18,Good
+32,Female,110,173,26.9,Low,8,Yes,Occasional,3438,4,99,202,85,Hypertension,High,High,Middle,Bachelor,Marketer,0.9,108,822,22,Average
+40,Male,114,160,31.3,High,7,Yes,Occasional,2819,2,76,172,94,None,High,High,High,High School,Teacher,0.7,32,1201,8,Poor
+63,Male,63,184,32,High,5,Yes,Occasional,2898,4,76,353,35,Hypertension,Normal,Normal,Middle,Master,Teacher,1.2,55,1135,23,Average
+30,Female,97,168,25.3,High,6,No,None,1604,2,68,358,36,None,Normal,High,Middle,PhD,Self Employed,0.9,78,912,22,Excellent
+32,Female,78,177,25.6,Moderate,7,Yes,None,2159,4,55,202,59,Diabetes,Normal,Normal,Low,Master,Actor,0.4,31,1243,19,Average
+49,Female,52,171,31.5,Low,6,Yes,Occasional,3247,2,73,389,76,Diabetes,Normal,High,Low,Bachelor,Drummer,1.4,113,885,16,Poor
+23,Female,120,172,29.7,High,4,Yes,Occasional,2016,6,117,234,51,None,High,Normal,Low,High School,Drummer,1.2,51,732,15,Good
+33,Male,66,158,34,High,8,No,Regular,2013,2,103,234,46,None,High,Normal,High,Bachelor,Business Developer,1.2,74,1178,23,Excellent
+59,Female,52,186,19.6,Moderate,9,No,Occasional,2362,2,59,391,98,Diabetes,Normal,High,High,Master,Business Woman,1.2,50,1217,10,Average
